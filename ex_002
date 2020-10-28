@@ -1,0 +1,7 @@
+def PoP(task):
+    if task>0:
+        print(' 可以追剧')
+    else:
+        print('继续学习')
+        
+PoP(1)
